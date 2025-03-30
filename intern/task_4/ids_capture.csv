@@ -1,0 +1,4 @@
+Timestamp,Protocol,Source IP,Source IP Type,Source Port,Source Service,Destination IP,Destination IP Type,Destination Port,Destination Service,Packet Size (B),TCP Flags,Threat Level
+2025-03-30 19:41:32,TCP,192.168.0.103,Private,61686,,52.168.117.168,Public,443,HTTPS,172,"ACK,PSH",High
+2025-03-30 19:41:32,TCP,192.168.0.103,Private,61686,,52.168.117.168,Public,443,HTTPS,1494,ACK,High
+2025-03-30 19:41:32,TCP,192.168.0.103,Private,61686,,52.168.117.168,Public,443,HTTPS,779,"ACK,PSH",High

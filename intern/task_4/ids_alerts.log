@@ -1,0 +1,6 @@
+=== Network IDS Alert Log - Started at 2025-03-30 19:41:32.338080 ===
+
+[2025-03-30 19:41:32] ALERT-High: Connection with Blocked IP - IP 192.168.0.103 is in blocked range 192.168.0.0/16
+[2025-03-30 19:41:32] ALERT-High: Potential sql_injection attack - From 192.168.0.103 to 52.168.117.168, Matched pattern: (?i)(SELECT|INSERT|UPDATE|DELETE|DROP|UNION|OR\s+1=1|\'|\-\-)
+[2025-03-30 19:41:32] ALERT-High: Potential sql_injection attack - From 192.168.0.103 to 52.168.117.168, Matched pattern: (?i)(SELECT|INSERT|UPDATE|DELETE|DROP|UNION|OR\s+1=1|\'|\-\-)
+[2025-03-30 19:41:32] ALERT-High: Potential sql_injection attack - From 192.168.0.103 to 52.168.117.168, Matched pattern: (?i)(SELECT|INSERT|UPDATE|DELETE|DROP|UNION|OR\s+1=1|\'|\-\-)
